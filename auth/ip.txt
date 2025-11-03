@@ -1,0 +1,42 @@
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 127.0.0.1
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 175.176.49.47
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 124.6.132.232
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+
+IP: 2a03:2880:3ff:4d::
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 2a03:2880:30ff:71::
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 2a03:2880:30ff:73::
+User-Agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+
+IP: 2a03:2880:31ff:2::
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 12; SM-G975U1 Build/SP1A.210812.016) [FBAN/AppManager;FBAV/125.1.18;FBLC/fr_FR;FBBV/807305573;FBCR/Yas;FBMF/samsung;FBBD/samsung;FBDV/SM-G975U1;FBSV/12;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=3.375,width=1080,height=2173};FB_FW/1;FBAS/31;FBBPN/beyond2qlteue;FBBPD/beyond2q;FBXDID/ab76950b-0c9c-43b5-a29d-c9a075b9dbfa;FBLR/0;FBXPID/samsung:dec1cc9c-1497-4aab-b953-cee702c2a481;FBOXIV/807305483;FBFSM/64703;FBLSM/64002;FBXPR/1;FBTOS/3;FBPGSZ/4096;]
+
+IP: 2a03:2880:21ff:46::
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/22G100 [FBAN/FBIOS;FBAV/536.0.0.41.69;FBBV/810658357;FBDV/iPhone17,1;FBMD/iPhone;FBSN/iOS;FBSV/18.6.2;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBRV/816498256]
+
+IP: 124.6.132.232
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+
+IP: 136.158.101.171
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+
